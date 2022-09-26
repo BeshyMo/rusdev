@@ -1,0 +1,14 @@
+body {
+    background-color: #000;
+    font-family: 'Robot Mono', monospace;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    color: #ECB365;
+}
+
+p {
+    color: #064663;
+}
